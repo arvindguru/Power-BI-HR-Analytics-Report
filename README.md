@@ -67,14 +67,19 @@ Here are some of the DAX formulas used in the report to compute key metrics:
   
 ## Screenshots
 
+### HR Analytics Dashboard filtered to the R&D Department
 ![image](https://github.com/user-attachments/assets/06c66c94-6061-420e-b45a-e2e961f21351)
 
+### HR Analytics Dashboard filtered based on bachelor's degree
 ![image](https://github.com/user-attachments/assets/267e09a2-c97e-4db1-9107-5ee3ed4c15b9)
 
+### HR Analytics Dashboard filtered based on master's degree
 ![image](https://github.com/user-attachments/assets/a9f8f800-47f0-4991-b80b-64f5159b3ee5)
 
+### HR Analytics Dashboard filtered to the Sales Department
 ![image](https://github.com/user-attachments/assets/af52d57f-0a7a-414a-816e-d2399e8dc3de)
 
+### HR Analytics Dashboard filtered based on Associate degree
 ![image](https://github.com/user-attachments/assets/37c9bf9f-b4b5-4f9c-8a43-4b373f219c92)
 
 ## Tools And Technologies
@@ -89,17 +94,3 @@ Key findings indicate that the R&D department faces the highest attrition rates,
 On the positive side, Sales Executives and Research Scientists show high job satisfaction, underscoring the importance of maintaining a focus on job satisfaction across other roles, such as those in Human Resources, where lower satisfaction rates were observed.
 
 By leveraging the actionable insights provided in this report, HR leaders can implement strategic initiatives to address the identified pain points—ultimately improving employee satisfaction, lowering attrition rates, and fostering a more engaged and stable workforce.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
